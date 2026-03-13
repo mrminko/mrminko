@@ -1,20 +1,22 @@
-##💫 About Me:
-
-Hi, I'm Min Ko Oo 👋
+## 💫 About Me:
+---
+Hi, I'm Min Ko 👋
 
 Backend developer who enjoys building reliable systems and understanding how things work under the hood.
 I like working close to the system — networking, performance optimization, and backend architecture.
 
-##🧑‍💻 My Interests:
 
+## 🧑‍💻 My Interests:
+---
 Strong interest in **Linux**, **Systems programming** and **Networking**
 
 Enjoy learning how software interacts with the OS
 
 Focused on building efficient and scalable backend systems
 
-##💻 Tech Stack:
 
+##💻 Tech Stack:
+---
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
