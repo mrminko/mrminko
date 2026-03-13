@@ -5,7 +5,7 @@ I like working close to the system — networking, performance optimization, and
 
 🧑‍💻 About Me
 
-Strong interest in Linux, systems programming and networking
+Strong interest in **Linux**, **Systems programming** and **Networking**
 
 Enjoy learning how software interacts with the OS
 
