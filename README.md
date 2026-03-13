@@ -10,3 +10,6 @@ Strong interest in **Linux**, **Systems programming** and **Networking**
 Enjoy learning how software interacts with the OS
 
 Focused on building efficient and scalable backend systems
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrminko&show_icons=true&theme=radical)
+
