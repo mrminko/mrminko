@@ -2,7 +2,7 @@
 
 Hello bro, I'm Min Ko 👋
 
-Backend developer who enjoys building reliable systems and understanding how things work under the hood.
+A man who enjoys building reliable systems and understanding how things work under the hood.
 I like working close to the system — networking, performance optimization, and backend architecture.
 
 
